@@ -47,4 +47,5 @@ Hard Mode 👇
 
 https://github.com/user-attachments/assets/7ef7f93a-fe91-4a4a-9296-c846ae94926f
 
+The pictures and videos mentioned are also uploaded in the folder.
 
