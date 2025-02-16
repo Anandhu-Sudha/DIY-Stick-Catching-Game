@@ -1,5 +1,5 @@
 # DIY-Stick-Catching-Game
-It's a game machine that tests your reflexes.
+It's a game machine that tests your reflexes
 
 
 #throwback-may-2023
